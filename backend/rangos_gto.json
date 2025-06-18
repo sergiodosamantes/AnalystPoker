@@ -1,0 +1,8 @@
+{
+  "UTG": ["AA", "KK", "QQ", "JJ", "TT", "AKs", "AQs"],
+  "MP": ["AA", "KK", "QQ", "JJ", "TT", "AKs", "AQs", "AJs", "KQs", "AKo"],
+  "CO": ["AA", "KK", "QQ", "JJ", "TT", "99", "88", "AKs", "AQs", "AJs", "ATs", "KQs", "KJs", "AKo", "AQo"],
+  "BTN": ["AA", "KK", "QQ", "JJ", "TT", "99", "88", "77", "AKs", "AQs", "AJs", "ATs", "KQs", "KJs", "QJs", "JTs", "AKo", "AQo", "AJo"],
+  "SB": ["AA", "KK", "QQ", "JJ", "TT", "99", "AKs", "AQs", "AJs", "KQs", "AKo"],
+  "BB": ["AA", "KK", "QQ", "JJ", "TT", "99", "AKs", "AQs", "AKo"]
+}
