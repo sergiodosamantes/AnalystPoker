@@ -1,4 +1,4 @@
-oyecto Poker Analyst
+Proyecto Poker Analyst
 Análisis inteligente de manos de póker Texas Hold’em para decisiones pre-flop y post-flop, basado en simulaciones y lógica experta. Implementado en Python y con interfaz en Streamlit.
 
 Descripción
